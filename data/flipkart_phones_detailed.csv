@@ -1,0 +1,6 @@
+Product Name,Category,Price,Rating,Brand,Specs
+"Smartphone A","Electronics",15000,4.3,"BrandX","6GB RAM, 128GB Storage, 48MP Camera"
+"Smartphone B","Electronics",20000,4.5,"BrandY","8GB RAM, 256GB Storage, 64MP Camera"
+"Smartphone C","Electronics",10000,4.1,"BrandZ","4GB RAM, 64GB Storage, 12MP Camera"
+"Laptop A","Computers",50000,4.6,"BrandW","16GB RAM, 512GB SSD, Intel i7"
+"Laptop B","Computers",45000,4.2,"BrandV","8GB RAM, 256GB SSD, Intel i5"

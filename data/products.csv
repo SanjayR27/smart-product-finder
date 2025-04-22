@@ -1,0 +1,4 @@
+product_name,price,rating,features,ram,storage,value_for_money,brand,processor,battery
+Redmi 12,8999,4.3,"camera, battery, display",4GB,64GB,8,Xiaomi,MediaTek G88,5000mAh
+Realme Narzo 50,9999,4.1,"camera, performance, battery",4GB,64GB,7,Realme,Helio G96,5000mAh
+Samsung M04,10499,4.0,"display, battery",4GB,64GB,6,Samsung,Helio P35,5000mAh
